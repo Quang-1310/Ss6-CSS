@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+}
+
+
+body{
+    background-color: aliceblue;
+}
+
+
+.container{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 300px;
+    background-color: white;
+    
+}
+
+.container .form{
+    border-radius: 10px;
+    padding: 60px;
+    width: max-content;
+    
+}
+
+.container .log-in{
+    width: 100%;
+    border-collapse: collapse;
+    padding: 4px;
+    color: white;
+    background-color: blue;
+}
+
+h2{
+    text-align: center;
+}
